@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phreak777
 - 👀 I’m interested in API development and webapps.
-- 🌱 I’m currently learning JavaScript (wanna go to Angular and Node, then PHP)
-- 💞️ I’m looking to collaborate on anything I can help with
+- 🌱 I've had minor code exposure, working on more languages.
+- 💞️ I’m looking to collaborate on anything I can help with.
 - 📫 How to reach me: not for the moment, working on a way.
 
 <!---

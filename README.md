@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phreak777
 - 👀 I’m interested in API development and webapps.
-- 🌱 I've had minor code exposure, working on more languages.
+- 🌱 I've had minor code exposure (html/css, js, php, python, C#), working on growing in these languages.
 - 💞️ I’m looking to collaborate on anything I can help with.
 - 📫 How to reach me: not for the moment, working on a way.
 
